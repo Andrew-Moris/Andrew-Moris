@@ -201,11 +201,17 @@ AI-powered predictive maintenance platform combining:
 
 # 📊 GitHub Analytics
 
+<p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Andrew-Moris&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Andrew-Moris&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Moris&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
+<p align="center">
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Andrew-Moris&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
 
 ---
 
