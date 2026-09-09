@@ -209,21 +209,6 @@ AI-powered predictive maintenance platform combining:
 
 ---
 
-# 🏆 GitHub Achievements
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=Andrew-Moris&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-
----
-
-# 📈 Contribution Activity
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Andrew-Moris&theme=tokyo-night"/>
-
-
----
 
 # 🧩 Security Philosophy
 
