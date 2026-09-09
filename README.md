@@ -6,13 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&width=850&lines=Cybersecurity+Researcher;Network+Security+Enthusiast;Vulnerability+Researcher;OSINT+%7C+Digital+Forensics;Python+Security+Automation;Building+Tools+to+Secure+Digital+Systems" />
 
 
-<p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Andrew-Moris&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/Andrew-Moris?label=Followers&style=for-the-badge&color=00F7FF"/>
-
-</p>
 
 
 ---
